@@ -1,6 +1,10 @@
 # Hi there 👋
 Don't mind me, I'm mostly using private repos ✨
 
+Student at RIT currently learning SQL (PostgreSQL, SQLite), Javascript (+ Svelte, React, TypeScript, Angular), Rust, Java (+ Spring), Python (+ Flask).
+
+I have a project in the planning stages at the moment. Will make repo public when it's ready; I'm still deciding on my tech stack at the moment (was going to use MongoDB but SQLite seems better for my use case; might have to change from Rust backend to something else).
+
 <!--
 **lumitry/lumitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
