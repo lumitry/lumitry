@@ -16,6 +16,12 @@ I'm also working on my [portfolio site](briggstucker.com), which I'm writing in 
 
 Currently looking for Software Engineering Co-ops in Spring of 2026.
 
+Additionally, I have a few side projects that aren't currently on Github:
+
+- Managing my home server/NAS (Ubuntu Server, docker-compose, Portainer, [Gitea](https://about.gitea.com), [ChangeDetection](https://github.com/dgtlmoon/changedetection.io), [firefly-iii](https://github.com/firefly-iii/firefly-iii), Nextcloud, FreshRSS, Samba, et al.)
+- Basic Python Flask server to receive a webhook POST from Gitea on new commits being pushed, pull the associated changes, then add/update those documents in the RAG database of an [Open-WebUI](https://github.com/open-webui/open-webui) instance
+- Various scripts in JS for that interface with the [dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin's API for the [Obsidian](https://obsidian.md) markdown editor to create custom "[views](https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/)"
+
 <!--
 **lumitry/lumitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
