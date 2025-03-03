@@ -12,7 +12,7 @@ I'm a third-year student at RIT with a "learning new technologies" problem:
 
 I have a project, myMedia, in the planning stages; I recently made the repo public! I'm considering switching the backend from Sqlite via Tauri to Pocketbase or some similar solution, to avoid writing a ton of messy Rust code (the stuff I've written thus far is admittedly bad, but I'm learning!).
 
-I'm also working on my [portfolio site](briggstucker.com), which I'm writing in Next.js, which has been exciting to learn about especially given how prevalent it is.
+I'm also working on my [portfolio site](https://www.briggstucker.com), which I'm writing in Next.js, which has been exciting to learn about especially given how prevalent it is.
 
 Currently looking for Software Engineering Co-ops in Spring of 2026.
 
