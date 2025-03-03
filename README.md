@@ -1,18 +1,20 @@
 # Hi there 👋
 
-I'm a second-year student at RIT with a "learning new technologies" problem:
+I'm a third-year student at RIT with a "learning new technologies" problem:
 
 - Javascript (TypeScript, React, Next.js, Angular, Svelte + SvelteKit)
 - Java (Spring, Mockito, JUnit5)
 - Python (Flask-RESTful, Pytest)
 - SQL (PostgreSQL, Sqlite)
 - Rust (Tauri)
+- Webhooks
+- Selenium
 
 I have a project, myMedia, in the planning stages; I recently made the repo public! I'm considering switching the backend from Sqlite via Tauri to Pocketbase or some similar solution, to avoid writing a ton of messy Rust code (the stuff I've written thus far is admittedly bad, but I'm learning!).
 
-I'm also working on my [personal site](briggstucker.com), which I'm writing in Next.js, which has been exciting to learn about especially given how prevalent it is.
+I'm also working on my [portfolio site](briggstucker.com), which I'm writing in Next.js, which has been exciting to learn about especially given how prevalent it is.
 
-Currently looking for Software Engineering Co-ops in the Summer and Fall of 2024, as well as Spring of 2025.
+Currently looking for Software Engineering Co-ops in Spring of 2026.
 
 <!--
 **lumitry/lumitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
